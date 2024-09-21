@@ -1,85 +1,85 @@
-        body {
-            background-image: url(bg.jpg);
-            background-repeat: no-repeat;
-            background-size: cover;
-            margin: 0;
-        }
-        
-        .form {
-            display: flex;
-            justify-content: center;
-        }
-        
-        .img {
-            display: flex;
-            justify-content: center;
-        }
-        
-        .ch {
-            height: 400px;
-        }
-        
-        .serch {
-            width: 1000px;
-            height: 100px;
-            margin: 0px;
-            padding: 10px;
-            font-size: 80px;
-            display: inline;
-        }
-        
-        .wind {
-            width: 800px;
-            height: 400px;
-            display: inline;
-        }
-        
-        d .button {
-            width: 300px;
-            height: 130px;
-            font-size: 90px;
-            margin: 0px;
-            display: inline;
-            align-items: center;
-        }
-        
-        h1 {
-            font-size: 200px;
-            font-family: Arial, Helvetica, sans-serif;
-            text-align: center;
-        }
-        
-        .div {
-            display: flex;
-            justify-content: center;
-        }
-        
-        .sunjust {
-            width: 500px;
-            height: 900px;
-        }
-        
-        .temp {
-            width: 400px;
-            height: 400px;
-            margin-top: 200px;
-        }
-        
-        .temp2 {
-            width: 400px;
-            height: 400px;
-            margin-top: 200px;
-        }
-        
-        .cold {
-            width: 500px;
-            height: 900px;
-            margin-top: 0px;
-        }
-        
-        .h2 {
-            font-size: 200px;
-            margin-top: 200px;
-            display: flex;
-            justify-content: center;
-        }
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
+
+.ch {
+    height: 400px;
+}
+
+.serch {
+    width: 1000px;
+    height: 100px;
+    margin: 0px;
+    padding: 10px;
+    font-size: 80px;
+    display: inline;
+}
+
+.wind {
+    width: 800px;
+    height: 400px;
+    display: inline;
+}
+
+.button {
+    width: 300px;
+    height: 128px;
+    font-size: 80px;
+    margin: 0px;
+    display: inline;
+    align-items: center;
+}
+
+h1 {
+    font-size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.sunjust {
+    width: 500px;
+    height: 900px;
+}
+
+.temp {
+    width: 400px;
+    height: 400px;
+    margin-top: 200px;
+}
+
+.temp2 {
+    width: 400px;
+    height: 400px;
+    margin-top: 200px;
+}
+
+.cold {
+    width: 500px;
+    height: 900px;
+    margin-top: 0px;
+}
+
+.h2 {
+    font-size: 200px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+}
